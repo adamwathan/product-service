@@ -22,6 +22,7 @@ class CreateDescriptionsTable extends Migration
     }
 
     
+    
     /**
      * Reverse the migrations.
      *
